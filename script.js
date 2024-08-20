@@ -87,9 +87,9 @@ function respostaSelecionada(alternativa) {
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = 'em resumo, voce escolheu...';
-    textoResultado.textContent = historiaFinal;
-    caixaAlternativas.text = '';
+    caixaperguntas.textContent = 'em resumo, voce escolheu...';
+    textoresultado.textContent = historiaFinal;
+    caixaalternativas.text = '';
 }
 
 mostraPerguntas();
