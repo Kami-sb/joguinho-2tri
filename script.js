@@ -17,7 +17,7 @@ const perguntas = [
                 },
 
                 {
-                    texto: "passar na faculdade que você preferir,  nunca poder exercer o que você cursou,  trabalhar com algo que você odeia e tirar férias a cada 3 meses",
+                    texto: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida",
                     afirmação: "afirmação",
                 }]
     },
