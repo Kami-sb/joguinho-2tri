@@ -57,20 +57,20 @@ let atual = 0;
 let perguntaAtual;
 let historiaFinal = '';
 
-function mostraPerguntas (){
-    if(atual >= perguntas.length){
-mostraResultado();
-    return;
+function mostraPerguntas() {
+    if (atual >= perguntas.length) {
+        mostraResultado();
+        return;
     }
-    perguntaAtual= perguntas[atual];
+    perguntaAtual = perguntas[atual];
     caixaperguntas.textContent = perguntaAtual.enunciado;
-    caixaalternativas.textContent="";
+    caixaalternativas.textContent = "";
     mostraAlternativas();
 }
 
 function mostraAlternativas() {
-    for (const alternativa of perguntaAtual.alternativas)
-    { const botaoAlternativa = document.createElement ("button");
+    for (const alternativa of perguntaAtual.alternativas) {
+        const botaoAlternativa = document.createElement("button");
         botaoAlternativa.textContent = alternativa.texto;
         botaoAlternativa.addEventListener("click", () => respostaSelecionada(alternativa));
         caixaalternativas.appendChild(botaoAlternativa);
@@ -80,13 +80,13 @@ function mostraAlternativas() {
 }
 
 function respostaSelecionada(alternativa) {
-   const afirmacoes = alternativa.afirmação;
-   historiaFinal += afirmacoes +'';
+    const afirmacoes = alternativa.afirmação;
+    historiaFinal += afirmacoes + '';
     atual++;
     mostraPerguntas();
 }
 
-function mostraResultado(){
+function mostraResultado() {
     caixaperguntas.textContent = 'em resumo, voce escolheu...';
     textoresultados.textContent = historiaFinal;
     caixaalternativas.text = '';
