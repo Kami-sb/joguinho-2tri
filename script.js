@@ -13,12 +13,12 @@ const perguntas = [
 
                 {
                     texto: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
-                    afirmação: "afirmação1",
+                    afirmação: "afirmação1 ",
                 },
 
                 {
                     texto: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida",
-                    afirmação: "afirmação2",
+                    afirmação: "afirmação2 ",
                 }]
     },
     {
@@ -27,13 +27,13 @@ const perguntas = [
             [
 
                 {
-                    texto: "poder eliminar o desmatamento na amazônia e nunca mais poder realizar um sonho seu",
-                    afirmação: "afirmação1",
+                    texto: "acabar com o desmatamento na amazonia porem haveria 1 ano de extrema seca no brasil",
+                    afirmação: "afirmação1 ",
                 },
 
                 {
-                    texto: "poder realizar um sonho na hora que quiser e morrer com o aumento do aquecimento global 1 semana depois  (você não pode desejar acabar com o aquecimento global)",
-                    afirmação: "afirmação2",
+                    texto: "chover no nordeste porem o desmatamento da amazonia avançaria 2 vezes mais",
+                    afirmação: "afirmação2 ",
                 }]
     },
     {
@@ -43,12 +43,12 @@ const perguntas = [
 
                 {
                     texto: "a tecnologia avançar em um nível as pessoas não precisem fazer esforços físicos porém todos os seus dados e vida pessoal serão expostos ",
-                    afirmação: "afirmação1",
+                    afirmação: "afirmação1 ",
                 },
 
                 {
                     texto: "A tecnologia encontrar a cura para todas as doenças porém começaram a ser criados robôs para exilar a humanidade ",
-                    afirmação: "afirmação2",
+                    afirmação: "afirmação2 ",
                 }]
     },
 ]
