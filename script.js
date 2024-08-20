@@ -12,7 +12,7 @@ const perguntas = [
             [
 
                 {
-                    texto: "conseguir a carreira dos sonhos e nunca mais poder faltar trabalho nem tirar férias, com um salário ótimo ",
+                    texto: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
                     afirmação: "afirmação",
                 },
 
@@ -76,7 +76,7 @@ function mostraAlternativas() {
 
 }
 
-function respostaSelecionada(alternativa) {
+function respostaSelecionada(alternativas) {
    const afirmacoes = alternativa.afirmação;
     atual++;
     mostraPerguntas();
