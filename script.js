@@ -12,8 +12,8 @@ const perguntas = [
             [
 
                 {
-                    texto: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
-                    afirmação: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
+                    texto: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida,",
+                    afirmação: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida,",
                 },
 
                 {
