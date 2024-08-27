@@ -42,8 +42,8 @@ const perguntas = [
             [
 
                 {
-                    texto: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
-                    afirmação: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
+                    texto: "criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
+                    afirmação: "criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
                 },
 
                 {
