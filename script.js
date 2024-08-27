@@ -47,8 +47,8 @@ const perguntas = [
                 },
 
                 {
-                    texto: "A tecnologia encontrar a cura para todas as doenças porém começaram a ser criados robôs para exilar a humanidade ",
-                    afirmação: "afirmação2 ",
+                    texto: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira ",
+                    afirmação: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira ",
                 }]
     },
 ]
