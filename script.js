@@ -12,8 +12,8 @@ const perguntas = [
             [
 
                 {
-                    texto: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida,",
-                    afirmação: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida,",
+                    texto: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
+                    afirmação: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
                 },
 
                 {
@@ -27,13 +27,13 @@ const perguntas = [
             [
 
                 {
-                    texto: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano ",
-                    afirmação: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano ",
+                    texto: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano",
+                    afirmação: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano",
                 },
 
                 {
-                    texto: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais ",
-                    afirmação: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais ",
+                    texto: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais",
+                    afirmação: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais",
                 }]
     },
     {
@@ -81,7 +81,7 @@ function mostraAlternativas() {
 
 function respostaSelecionada(alternativa) {
     const afirmacoes = alternativa.afirmação;
-    historiaFinal += afirmacoes + ' ';
+    historiaFinal += afirmacoes + ', ';
     atual++;
     mostraPerguntas();
 }
