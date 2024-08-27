@@ -42,8 +42,8 @@ const perguntas = [
             [
 
                 {
-                    texto: "a tecnologia avançar em um nível as pessoas não precisem fazer esforços físicos porém todos os seus dados e vida pessoal serão expostos ",
-                    afirmação: "afirmação1 ",
+                    texto: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria",
+                    afirmação: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria",
                 },
 
                 {
