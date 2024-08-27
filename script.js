@@ -13,12 +13,12 @@ const perguntas = [
 
                 {
                     texto: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
-                    afirmação: "afirmação1 ",
+                    afirmação: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
                 },
 
                 {
                     texto: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida",
-                    afirmação: "afirmação2 ",
+                    afirmação: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida ",
                 }]
     },
     {
@@ -27,13 +27,13 @@ const perguntas = [
             [
 
                 {
-                    texto: "acabar com o desmatamento na amazonia porem haveria 1 ano de extrema seca no brasil",
-                    afirmação: "afirmação1 ",
+                    texto: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano ",
+                    afirmação: "acabar com o desmatamento no brasil porém haveria uma seca de 1 ano ",
                 },
 
                 {
-                    texto: "chover no nordeste porem o desmatamento da amazonia avançaria 2 vezes mais",
-                    afirmação: "afirmação2 ",
+                    texto: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais",
+                    afirmação: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais ",
                 }]
     },
     {
