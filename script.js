@@ -32,7 +32,7 @@ const perguntas = [
                 },
 
                 {
-                    texto: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais",
+                    texto: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais ",
                     afirmação: "chuva no nordeste mas o desmatamento avançaria 2 vezes mais ",
                 }]
     },
@@ -81,7 +81,7 @@ function mostraAlternativas() {
 
 function respostaSelecionada(alternativa) {
     const afirmacoes = alternativa.afirmação;
-    historiaFinal += afirmacoes + ', ';
+    historiaFinal += afirmacoes + ' ';
     atual++;
     mostraPerguntas();
 }
