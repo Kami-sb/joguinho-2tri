@@ -12,13 +12,13 @@ const perguntas = [
             [
 
                 {
-                    texto: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
-                    afirmação: "ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
+                    texto: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
+                    afirmação: "Ter tudo o que voce sempre quis na vida em troca de 20 anos de vida",
                 },
 
                 {
-                    texto: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida",
-                    afirmação: "ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida ",
+                    texto: "Ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida",
+                    afirmação: "Ganhar 20 anos de vida mas não terá tudo que deseja alcançar na vida ",
                 }]
     },
     {
@@ -47,8 +47,8 @@ const perguntas = [
                 },
 
                 {
-                    texto: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
-                    afirmação: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
+                    texto: "a sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
+                    afirmação: "a sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
                 }]
     },
 ]
