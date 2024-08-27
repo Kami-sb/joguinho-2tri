@@ -42,13 +42,13 @@ const perguntas = [
             [
 
                 {
-                    texto: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria",
-                    afirmação: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria",
+                    texto: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
+                    afirmação: " Criar um meio tecnológico que faça com que a sociedade consiga entrar em contato com seres extraterrestres mas alguem da sua familia morreria.",
                 },
 
                 {
-                    texto: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira ",
-                    afirmação: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira ",
+                    texto: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
+                    afirmação: "A sociedade nunca mnais avançar tecnológicamente e poder reviver qualquer pessoa que queira. ",
                 }]
     },
 ]
